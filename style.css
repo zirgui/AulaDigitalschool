@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    background-color: gray;
+}
+
+h1 {
+    margin-bottom: 30px;
+    border: 1px 2px red solid;
+    
+}
+
+p {
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 40px;
+    text-align: justify;
+    color: antiquewhite;
+}
+
+img {
+    width: 900px;
+    height: 600px;
+    margin-left: 300px;
+    border: 1px 2px red solid;
+}
